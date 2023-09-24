@@ -1,16 +1,13 @@
-### Hi there 👋
+### 💻 Skills
 
-<!--
-**Ramsey2022/Ramsey2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=16181D)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=16181D)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=16181D)](https://www.ruby-lang.org/en/)
+[![](https://img.shields.io/badge/-rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=16181D)](https://rubyonrails.org/)
+![](https://img.shields.io/badge/-css-F43059?style=for-the-badge&logo=csswizardry&logoColor=16181D)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+
+- [![](https://img.shields.io/badge/LinkedIn-Ramsey-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ramseydev/)
+- [![](https://img.shields.io/badge/Email-ramsey.dev@outlook.com-red?style=social&logo=microsoftoutlook)](mailto:ramsey.dev@outlook.com)
