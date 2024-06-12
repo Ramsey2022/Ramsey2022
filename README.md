@@ -1,13 +1,11 @@
-### 🐍 Primary Specialization
+### 🔌 Skills
+
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-### 🔌 Familiar skills
-
-[![](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=16181D)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)](https://flask.palletsprojects.com/en/3.0.x/)
 [![](https://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=16181D)](https://www.ruby-lang.org/en/)
-[![](https://img.shields.io/badge/-rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=16181D)](https://rubyonrails.org/)
-[![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=16181D)](https://reactjs.org/)
-![](https://img.shields.io/badge/-css-F43059?style=for-the-badge&logo=csswizardry&logoColor=16181D)
+[![](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 ### 📮 How to reach me
